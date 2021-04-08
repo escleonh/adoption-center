@@ -1,0 +1,39 @@
+.btn{
+    /* display: block;
+    margin: 0 auto; */
+    background-color: #e58e26;
+    color: white;
+}
+.alert{
+    background-color: #ffc107;
+}
+nav{
+    background-color: rgb(22,187,150,1);
+
+}
+.card{
+    text-align: center;
+}
+.card img{
+    height: 200px; 
+    /* width: 60%; */
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: #fff5c15e;
+}
+.home-header{
+    background: url("catsdogs.png");
+    height: 20vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
+.container-sm{
+    margin-top: 0;
+}
+h5{
+    text-align: center;
+}
