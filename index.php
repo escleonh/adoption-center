@@ -30,7 +30,7 @@ if($result->num_rows>0){
       <div class='card-body'>
         <h5 class='card-title'>" . $row["name"]. "</h5>
         <p class='card-text'>".$row["description"]."</p>
-        <a href='#' class='btn '>Adopt</a>
+        <a href='adoption-form.php' class='btn '>Adopt</a>
       </div>
     </div>";
     }

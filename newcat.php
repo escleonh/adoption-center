@@ -30,7 +30,7 @@ if(!empty($_POST['name'])){
             echo "<div class='alert  ' role='alert' style='text-align:center';>
             You have successfully added ".$name."
             </div>";
-            header('Location: http://192.168.64.3/Cats/');
+            // header('Location: http://192.168.64.3/Cats/');
         }
         else{
             echo "could not upload image";
